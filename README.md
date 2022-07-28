@@ -24,10 +24,10 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/tourdecode" target="_blank" style="margin-right:5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=tourdecode&show_icons=true&theme=onedark&count_private=true" style="width: 450px !important;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=tourdecode&show_icons=true&theme=github_dark&count_private=true" style="width: 450px !important;"/>
     </a>
     <a href="https://github.com/tourdecode" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tourdecode&show_icons=true&theme=onedark&count_private=true&layout=compact&exclude_repo="/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tourdecode&show_icons=true&theme=github_dark&count_private=true&layout=compact&exclude_repo="/>
     </a>
     <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
