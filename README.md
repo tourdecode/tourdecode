@@ -5,7 +5,8 @@
     <div>
         <p>
             Hi, I'm Tour</br>
-            <span style="margin-left:30px;">↠ Full-Stack Developer at <a href="https://soshouse.co.th" target="_blank">SOS Software House Co., Ltd.</a></span></br>
+            <span style="margin-left:30px;">↠ Full-Stack Developer </span></br>
+<!--             at <a href="https://soshouse.co.th" target="_blank">SOS Software House Co., Ltd.</a> -->
         </p>
     </div>
 </div>
