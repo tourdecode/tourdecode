@@ -13,11 +13,11 @@
 
 ## 📌 Badge list
 
-<div style=";margin-bottom:30px;">
+<!--<div style=";margin-bottom:30px;">
     <a href="https://app.daily.dev/TourDecode" target="_blank">
     <img src="https://api.daily.dev/devcards/819f95920ab74c6ba4bb131a7cc8c9c1.png?r=4oy" width="256" alt="TourDecode's Dev Card"/>
     </a>
-</div>
+</div> -->
 
 ## 📊 Github stats
 
